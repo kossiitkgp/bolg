@@ -30,7 +30,8 @@ const config: Config = {
         blog: {
           showReadingTime: true,
           editUrl: 'https://github.com/kossiitkgp/bolg/',
-          routeBasePath: '/'
+          routeBasePath: '/',
+          blogDescription: 'The occassional ramblings of our agitated developers, manifested in the form of bolgs.'
         },
         theme: {
           customCss: './src/css/custom.css',
