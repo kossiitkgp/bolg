@@ -57,19 +57,23 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Socials',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/kossiitkgp/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/kossiitkgp/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/kossiitkgp',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/kharagpur-open-source-society/',
             },
           ],
         },
@@ -78,7 +82,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/kossiitkgp/',
+            },
+            {
+              label: 'Website',
+              href: 'https://kossiitkgp.org/',
             },
           ],
         },
