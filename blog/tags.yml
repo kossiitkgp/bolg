@@ -2,3 +2,8 @@ engineering:
   label: Engineering
   permalink: /engineering
   description: Technical blogs
+
+koss:
+  label: KOSS
+  permalink: /koss
+  description: A bunch of things specific to Kharagpur Open Source Society
