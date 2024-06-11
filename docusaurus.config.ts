@@ -12,6 +12,7 @@ const config: Config = {
 
   organizationName: 'kossiitkgp',
   projectName: 'bolg',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
