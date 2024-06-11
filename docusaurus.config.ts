@@ -51,7 +51,20 @@ const config: Config = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [
+        {
+          label: 'Homepage',
+          href: 'https://kossiitkgp.org'
+        },
+        {
+          label: 'Github',
+          href: 'https://github.com/kossiitkgp/'
+        },
+        {
+          label: 'Docs',
+          href: 'https://github.com/kossiitkgp/docs'
+        },
+      ],
     },
     footer: {
       style: 'dark',
