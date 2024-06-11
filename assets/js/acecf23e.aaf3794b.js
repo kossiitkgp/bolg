@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoss_bolg=self.webpackChunkkoss_bolg||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/","blogTitle":"Blog"}')}}]);
