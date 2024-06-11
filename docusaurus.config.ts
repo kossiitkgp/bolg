@@ -29,7 +29,7 @@ const config: Config = {
         docs: false,
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/kossiitkgp/bolg/',
+          editUrl: 'https://github.com/kossiitkgp/bolg/tree/main',
           routeBasePath: '/',
           blogDescription: 'The occassional ramblings of our agitated developers, manifested in the form of bolgs.'
         },
