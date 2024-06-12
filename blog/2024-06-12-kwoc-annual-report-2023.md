@@ -11,7 +11,7 @@ Hello everyone!
 
 The Kharagpur Winter of Code (KWoC) 2023 has come to a close, and what an incredible journey it has been! For those unfamiliar, KWoC is an annual five-week program where students, many of whom are new to open-source software, contribute to coding projects under the guidance of experienced mentors. This program, hosted by the Kharagpur Open Source Society (KOSS) at IIT Kharagpur, is open to students from all universities, creating a diverse and inclusive environment.
 
-![](https://imgur.com/a/9li5W7y)
+![](https://i.imgur.com/cbZnwzj.png)
 ## The Motivation
 
 KWoC's main aim is to provide students with one-on-one mentorship as they take their first steps into the world of open source. It helps build bridges between budding developers and experienced mentors. This early guidance is especially beneficial for freshmen and sophomores, helping them build confidence and skills that will be invaluable for larger programs like Google Summer of Code (GSoC).
