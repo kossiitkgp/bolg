@@ -1,9 +1,8 @@
 ---
-slug: kwoc-annual-report-2023
+slug: kwoc-2023-report
 title: KWoC 2023 Report
 authors: tejasexpress
-tags:
-  - KOSS
+tags: [koss, kwoc]
 ---
 
 # KWoC 2023 
