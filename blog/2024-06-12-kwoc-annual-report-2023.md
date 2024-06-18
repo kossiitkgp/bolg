@@ -1,8 +1,9 @@
 ---
 slug: kwoc-annual-report-2023
-title: KWoC Annual Report 2023
+title: KWoC 2023 Report
+authors: tejasexpress
 tags:
-  - koss
+  - KOSS
 ---
 
 # KWoC 2023 
@@ -14,7 +15,7 @@ The Kharagpur Winter of Code (KWoC) 2023 has come to a close, and what an incred
 ![](https://i.imgur.com/cbZnwzj.png)
 ## The Motivation
 
-KWoC's main aim is to provide students with one-on-one mentorship as they take their first steps into the world of open source. It helps build bridges between budding developers and experienced mentors. This early guidance is especially beneficial for freshmen and sophomores, helping them build confidence and skills that will be invaluable for larger programs like Google Summer of Code (GSoC).
+KWoC's main aim is to provide students with guidance and mentorship as they take their first steps into the world of open source. It helps build bridges between budding developers and experienced mentors. This early guidance is especially beneficial for freshmen and sophomores, helping them build confidence and skills that will be invaluable for larger programs like Google Summer of Code (GSoC).
 
 ## How It Works
 
