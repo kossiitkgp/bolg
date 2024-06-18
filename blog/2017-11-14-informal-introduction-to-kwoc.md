@@ -2,7 +2,7 @@
 slug: informal-introduction-to-kwoc
 title: An informal introduction to KWoC
 authors: rava-dosa
-tags: [koss]
+tags: [koss, kwoc]
 ---
 
 
