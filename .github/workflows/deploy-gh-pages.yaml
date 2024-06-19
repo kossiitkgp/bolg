@@ -40,3 +40,6 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: ./build
+        token: ${{ secrets.KS_PAT }}
+        git-config-email: "admin@kossiitkgp.org"
+        git-config-name: "koss-service"
