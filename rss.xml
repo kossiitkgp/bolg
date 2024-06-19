@@ -4,18 +4,80 @@
         <title>KOSS Bolg Blog</title>
         <link>https://bolg.kossiitkgp.org/</link>
         <description>KOSS Bolg Blog</description>
-        <lastBuildDate>Thu, 21 Jun 2018 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[KWoC 2023 Report]]></title>
+            <link>https://bolg.kossiitkgp.org/kwoc-2023-report</link>
+            <guid>https://bolg.kossiitkgp.org/kwoc-2023-report</guid>
+            <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone!]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone!</p>
+<p>The Kharagpur Winter of Code (KWoC) 2023 has come to a close, and what an incredible journey it has been! For those unfamiliar, KWoC is an annual five-week program where students, many of whom are new to open-source software, contribute to coding projects under the guidance of experienced mentors. This program, hosted by the Kharagpur Open Source Society (KOSS) at IIT Kharagpur, is open to students from all universities, creating a diverse and inclusive environment.</p>
+<p><img decoding="async" loading="lazy" src="https://i.imgur.com/cbZnwzj.png" alt="" class="img_fUvR"></p>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="the-motivation">The Motivation<a class="hash-link" aria-label="Direct link to The Motivation" title="Direct link to The Motivation" href="https://bolg.kossiitkgp.org/kwoc-2023-report#the-motivation">​</a></h2>
+<p>KWoC's main aim is to provide students with guidance and mentorship as they take their first steps into the world of open source. It helps build bridges between budding developers and experienced mentors. This early guidance is especially beneficial for freshmen and sophomores, helping them build confidence and skills that will be invaluable for larger programs like Google Summer of Code (GSoC).</p>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="how-it-works">How It Works<a class="hash-link" aria-label="Direct link to How It Works" title="Direct link to How It Works" href="https://bolg.kossiitkgp.org/kwoc-2023-report#how-it-works">​</a></h2>
+<p>KWoC has always been an online program, operating through its dedicated <a href="https://kwoc.kossiitkgp.org/" target="_blank" rel="noopener noreferrer">website</a>. The process begins with mentors registering their projects. By the last week of November, the accepted projects are listed on the website, and student registrations begin. Students then browse through the projects, select those that interest them, and start contributing.</p>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="the-kickoff">The Kickoff<a class="hash-link" aria-label="Direct link to The Kickoff" title="Direct link to The Kickoff" href="https://bolg.kossiitkgp.org/kwoc-2023-report#the-kickoff">​</a></h2>
+<p>This year's journey started with an Introductory Seminar on November 11th, held on Google Meet and livestreamed on youtube.</p>
+<p><strong>The seminar covered:</strong></p>
+<ul>
+<li>What KWoC is all about</li>
+<li>Eligibility and participation details</li>
+<li>Benefits for both beginners and experienced coders</li>
+<li>The program timeline</li>
+<li>Helpful resources</li>
+<li>FAQs and live Q&amp;A</li>
+</ul>
+<p><strong>Participation Stats</strong></p>
+<ul>
+<li>Mentor Registrations: Began on November 12th</li>
+<li>Student Registrations: Started on November 25th</li>
+<li>Registered Mentors: 107</li>
+<li>Approved Projects: 69</li>
+<li>Registered Students: 1393</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="the-coding-period">The Coding Period<a class="hash-link" aria-label="Direct link to The Coding Period" title="Direct link to The Coding Period" href="https://bolg.kossiitkgp.org/kwoc-2023-report#the-coding-period">​</a></h2>
+<p>The coding period officially started on December 9th. This phase was a hive of activity as students collaborated with their mentors, working on issues, and implementing new features. By December 24th, mid-evaluations were conducted. To pass, students needed to have at least one open or merged pull request (PR) in their project. 133 students met this criterion and moved forward.</p>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="mid-and-end-evaluations">Mid and End Evaluations<a class="hash-link" aria-label="Direct link to Mid and End Evaluations" title="Direct link to Mid and End Evaluations" href="https://bolg.kossiitkgp.org/kwoc-2023-report#mid-and-end-evaluations">​</a></h2>
+<p>End evaluations began on January 9th, requiring students to have at least two open or merged PRs. 100 students met this requirement and were asked to write detailed blog reports about their KWoC experience, with a submission deadline of January 15th. These reports, along with mentor feedback, determined the successful participants.</p>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="highlights-and-achievements">Highlights and Achievements<a class="hash-link" aria-label="Direct link to Highlights and Achievements" title="Direct link to Highlights and Achievements" href="https://bolg.kossiitkgp.org/kwoc-2023-report#highlights-and-achievements">​</a></h2>
+<p>KWoC 2023 saw tremendous achievements and growth:</p>
+<ul>
+<li>Projects: 69</li>
+<li>Mentors: 107</li>
+<li>Students Registered: 1393</li>
+<li>Students with At Least One Merged PR: 90</li>
+<li>Mid Evaluations Passed: 133</li>
+<li>End Evaluations Passed: 100</li>
+<li>Blog Reports Submitted: 71</li>
+<li>Successful Participants: 62</li>
+<li>Total Merged PRs: 503</li>
+<li>Total Commits: 1353</li>
+<li>Lines of Code Changed: +1.01M / -52k</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_ywN1" id="closing-thoughts">Closing Thoughts<a class="hash-link" aria-label="Direct link to Closing Thoughts" title="Direct link to Closing Thoughts" href="https://bolg.kossiitkgp.org/kwoc-2023-report#closing-thoughts">​</a></h2>
+<p>Embarking on an open-source project can be intimidating, especially for those new to coding. It often begins with the excitement of exploring projects and wanting to make a meaningful contribution. However, navigating unfamiliar codebases and understanding project conventions can be intimidating. The key is to break down complex problems into smaller, solvable pieces and to learn progressively.  approach not only helps in understanding coding practices but also builds resilience and patience to work on large projects.</p>
+<p>Mentor interaction is crucial in KWoC, and while some students faced challenges in communication, many found mentors to be incredibly supportive. The relationship between mentors and mentees often blossomed into a collaborative learning experience, with mentors guiding students through coding practices and project development. We extend our heartfelt thanks to all mentors for their invaluable support and dedication throughout the program</p>
+<p>KWoC 2023 has been a celebration of code, collaboration, and community. The success of this edition is a testament to the hard work and passion of everyone involved—students, mentors, and the KOSS team. Certificates were awarded to successful participants, and the top 10 performers will be awarded goodies from FOSS United.</p>
+<p>As we wrap up another successful year of KWoC, we're excited to see how this experience will impact the future paths of all participants. Collaboration and learning are at the heart of open source, and KWoC 2023 has been a great example of this spirit.</p>
+<p>A heartfelt thank you to everyone who contributed to making this year's event a success.</p>
+<p>Best wishes,
+Kharagpur Open Source Society</p>]]></content:encoded>
+            <category>KOSS</category>
+            <category>KWoC</category>
+        </item>
         <item>
             <title><![CDATA[Git Cheatsheet]]></title>
             <link>https://bolg.kossiitkgp.org/git-cheatsheet</link>
             <guid>https://bolg.kossiitkgp.org/git-cheatsheet</guid>
             <pubDate>Thu, 21 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[What is Git?]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_UcM0" id="what-is-git">What is Git?<a class="hash-link" aria-label="Direct link to What is Git?" title="Direct link to What is Git?" href="https://bolg.kossiitkgp.org/git-cheatsheet#what-is-git">​</a></h2>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*8xhLJt8Nlps8CDETPgO6lg.jpeg" alt="" class="img_Aha3"></p>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_ywN1" id="what-is-git">What is Git?<a class="hash-link" aria-label="Direct link to What is Git?" title="Direct link to What is Git?" href="https://bolg.kossiitkgp.org/git-cheatsheet#what-is-git">​</a></h2>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*8xhLJt8Nlps8CDETPgO6lg.jpeg" alt="" class="img_fUvR"></p>
 <p>From <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git’s</a> official website:</p>
 <p>Git is a <a href="https://git-scm.com/about/free-and-open-source" target="_blank" rel="noopener noreferrer">free and open source</a>
 distributed version control system designed to handle everything from small to
@@ -63,7 +125,7 @@ simply type <code>git reset</code></li>
 <p><code>git commit</code></p>
 <p>but it is necessary to add messages with the commit to make sure what we did ;
 so for that we use <code>-m</code> extension like <code>git commit -m “message”</code></p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*fwUZtFBXFvHwMwmAWlde5w.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*fwUZtFBXFvHwMwmAWlde5w.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Staging and committing Flowchart.</span></p>
 <p><strong>To check the commit history:</strong></p>
 <p><code>git log</code></p>
@@ -130,10 +192,10 @@ your current working copy files.</p>
 </blockquote>
 <p>Now for finally pushing type in –&gt;</p>
 <p><code>git push origin master</code></p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*lWS_YsYDgGNzwleoSK8jOg.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*lWS_YsYDgGNzwleoSK8jOg.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Basic process Flowchart.</span></p>
 <p><strong>Branching:</strong></p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*roh6Eb2dFSeQhM0Fgs0cng.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*roh6Eb2dFSeQhM0Fgs0cng.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">A typical image which represents blue dots as master and rest as side branches.</span></p>
 <ul>
 <li>To create a new branch use <code>git branch &lt;branchname&gt;</code></li>
@@ -237,7 +299,7 @@ Because you will remember this winter for like 1–2 years, because if you are
 high on grit you will be going through a lot of learning shit. Okay, Siri is
 here to your rescue, Ubuntu is nothing like Windows but considering you as a
 Windows user, Instead of .exe there are other methods to install applications.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/600/0*7IlL4k_OFlZhgC3u." alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/600/0*7IlL4k_OFlZhgC3u." alt="" class="img_fUvR">
 <span class="figcaption_hack">Here is some Chinese wisdom for you my friend.</span></p>
 <p>There is terminal in ubuntu <strong>(ctrl + alt + t)</strong>. Here is an important
 <strong>[</strong><a href="https://www.pcsteps.com/5010-basic-linux-commands-terminal/" target="_blank" rel="noopener noreferrer">link</a><strong>]</strong> to
@@ -279,9 +341,9 @@ on fork button.</p>
 <p>k) Click on that green button of clone or download.</p>
 <p>l) When you click there, a menu appears where there is an option to copy link
 but ensure that you copy the link is in this format</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*bzxLympOO7EubZJW." alt="" class="img_Aha3"></p>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*bzxLympOO7EubZJW." alt="" class="img_fUvR"></p>
 <p>And not in this format:</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*NuKuoB2gB1FnM4af." alt="" class="img_Aha3"></p>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*NuKuoB2gB1FnM4af." alt="" class="img_fUvR"></p>
 <p>m) Then press ctrl+alt+t</p>
 <p>n)Then enter in terminal “git clone ” and then press ctrl+shift + v and then hit
 enter (hitting enter is an untold rule).</p>
@@ -305,9 +367,9 @@ anything</p>
 change)</strong>/kossiitkgp.github.io</p>
 <p>y) Then click on pull request then click on create new pr.(Check two branches
 which you are comparing)</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*26RvHxhcjsbA4ZSJ." alt="" class="img_Aha3"></p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*nfM7sqVODhn2qA30." alt="" class="img_Aha3"></p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*xixf1SOFoTSCeN98." alt="" class="img_Aha3"></p>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*26RvHxhcjsbA4ZSJ." alt="" class="img_fUvR"></p>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*nfM7sqVODhn2qA30." alt="" class="img_fUvR"></p>
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/0*xixf1SOFoTSCeN98." alt="" class="img_fUvR"></p>
 <p>z) If you are sending pr after few days of cloning then before <strong>git push</strong>
 first do</p>
 <p>git pull</p>
@@ -387,6 +449,7 @@ bulletproof”</strong></p>
 <p>With Love From:</p>
 <p><strong>Kharagpur Open Source Society</strong></p>]]></content:encoded>
             <category>KOSS</category>
+            <category>KWoC</category>
         </item>
         <item>
             <title><![CDATA[Writing Kickass READMEs]]></title>
@@ -399,7 +462,7 @@ late. Nevertheless, you should not make this mistake again.</p>
 <p>This is written with respect to software related READMEs, if you want guidelines
 for other stuff, then probably this isn’t the right place.</p>
 <p>Let’s discuss the potential problems of not having a good README:</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="not-a-clear-description-of-the-project">Not a clear description of the project<a class="hash-link" aria-label="Direct link to Not a clear description of the project" title="Direct link to Not a clear description of the project" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#not-a-clear-description-of-the-project">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="not-a-clear-description-of-the-project">Not a clear description of the project<a class="hash-link" aria-label="Direct link to Not a clear description of the project" title="Direct link to Not a clear description of the project" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#not-a-clear-description-of-the-project">​</a></h3>
 <p>I don’t recount how many times this has happened with me. I usually just scroll
 through all of my friends’ projects on GitHub to see what they are upto these
 days and time and again I have been disappointed by not seeing a good
@@ -411,7 +474,7 @@ can’t really mention all of it in one thing. That is the time you should
 probably split it in many repositories or folders (if you desperately want a big
 mono repo like Google) and each folder should contain some high-level
 information of what the code inside it will do, just like recursive <code>Makefiles</code>.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="not-having-a-installation-guide-or-an-incomplete-one">Not having a installation guide (or an incomplete one)<a class="hash-link" aria-label="Direct link to Not having a installation guide (or an incomplete one)" title="Direct link to Not having a installation guide (or an incomplete one)" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#not-having-a-installation-guide-or-an-incomplete-one">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="not-having-a-installation-guide-or-an-incomplete-one">Not having a installation guide (or an incomplete one)<a class="hash-link" aria-label="Direct link to Not having a installation guide (or an incomplete one)" title="Direct link to Not having a installation guide (or an incomplete one)" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#not-having-a-installation-guide-or-an-incomplete-one">​</a></h3>
 <p>So since you have got the viewer interested in trying our your software by
 writing a good introduction, you would now probably piss off her by sucking at
 writing an installation guide.</p>
@@ -435,7 +498,7 @@ file then God just forgive you. It is time to move on to at least <code>Makefile
 automate that process for you.</p>
 <p>If something doesn’t work in particular systems, it is <strong>important</strong> to list it
 out.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-user-documentation">No User Documentation<a class="hash-link" aria-label="Direct link to No User Documentation" title="Direct link to No User Documentation" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-user-documentation">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-user-documentation">No User Documentation<a class="hash-link" aria-label="Direct link to No User Documentation" title="Direct link to No User Documentation" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-user-documentation">​</a></h3>
 <p>You don’t have a user documentation? Well then how do you expect others to use
 your software. User documentation should be in another file or folder (if it is
 quite big) and should probably be in some kind of a format which can be rendered
@@ -445,7 +508,7 @@ oldies to read it. But you should have it. And that’s not it, your README shou
 explicitly point out to the documentation and also tell the user how to access
 it and actually read it.</p>
 <p>Also you can include the very basic use case in the README itself.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-guide-for-people-to-actually-contribute">No guide for people to actually contribute<a class="hash-link" aria-label="Direct link to No guide for people to actually contribute" title="Direct link to No guide for people to actually contribute" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-guide-for-people-to-actually-contribute">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-guide-for-people-to-actually-contribute">No guide for people to actually contribute<a class="hash-link" aria-label="Direct link to No guide for people to actually contribute" title="Direct link to No guide for people to actually contribute" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-guide-for-people-to-actually-contribute">​</a></h3>
 <p>If you have the viewer till now and she is thinking of actually contributing to
 your project, then kudos, your project is <strong>awesome</strong>.</p>
 <p>A very important part of the contributing guide is to setup the development
@@ -469,7 +532,7 @@ know it by default.</p>
 <p>It is also worth while to link the <code>easy to fix</code> bugs for new comers so that
 they can get familiar with the code base without trying to mingle with the core
 parts of the software.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-technical-documentation">No technical documentation<a class="hash-link" aria-label="Direct link to No technical documentation" title="Direct link to No technical documentation" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-technical-documentation">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-technical-documentation">No technical documentation<a class="hash-link" aria-label="Direct link to No technical documentation" title="Direct link to No technical documentation" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-technical-documentation">​</a></h3>
 <p>If you are having a big project, then you might be having a “core” part which is
 used by other parts of code. Have you documented it? Or you just expect people
 to <code>git-grep</code> and <code>git-blame</code> to find the relevant use cases, definition of the
@@ -479,7 +542,7 @@ but it is good to write a technical documentation wherein you will tell the
 programmer what a method does and how to use it. This will also make sure she
 doesn’t write a method to do the same stuff again and thus it would reduce your
 redundancy.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-mention-of-how-to-run-tests">No mention of how to run tests<a class="hash-link" aria-label="Direct link to No mention of how to run tests" title="Direct link to No mention of how to run tests" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-mention-of-how-to-run-tests">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-mention-of-how-to-run-tests">No mention of how to run tests<a class="hash-link" aria-label="Direct link to No mention of how to run tests" title="Direct link to No mention of how to run tests" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-mention-of-how-to-run-tests">​</a></h3>
 <p>Of course you project has tests, otherwise how can you make sure that by writing
 new code, you don’t break the old code? Your README should contain how to run
 the test suite. There are tons of different test suites available in the market
@@ -488,7 +551,7 @@ guesses as how one could probably run it. You should mention how to run
 individual tests, the whole test suite, and how to skip some tests, and if your
 test suite framework doesn’t support all of these features, then maybe the one
 you are using should be replaced.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-license">No license<a class="hash-link" aria-label="Direct link to No license" title="Direct link to No license" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-license">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-license">No license<a class="hash-link" aria-label="Direct link to No license" title="Direct link to No license" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-license">​</a></h3>
 <p>Yes, legal matters are important too! Whether you are releasing it as an truly
 open-sourced software with <code>BSD</code> license or something else, you should mention
 it. If you don’t realize the importance of licensing, that is maybe because your
@@ -497,26 +560,26 @@ might try to finger with it whether you like it or not. You should explicitly
 specify “how much fingering” you can tolerate in a separate file named as
 <code>LICENCE</code> in full detail like a legal document and if you are using a popular
 license, you can just mention the name in the README.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-place-to-mention-about-bugs">No place to mention about bugs<a class="hash-link" aria-label="Direct link to No place to mention about bugs" title="Direct link to No place to mention about bugs" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-place-to-mention-about-bugs">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-place-to-mention-about-bugs">No place to mention about bugs<a class="hash-link" aria-label="Direct link to No place to mention about bugs" title="Direct link to No place to mention about bugs" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-place-to-mention-about-bugs">​</a></h3>
 <p>You don’t have a bug management system? Okay, I agree this isn’t really always
 required but if you do, you should explicitly mention and link to that. If you
 talk about bugs in GitHub issues, then mention it there. Also if you are using
 GitHub, use labels to specify the bugs. If you still track bugs using emails via
 mailing list, specify that too also include a link to the old archives of the
 mailing list.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-mention-about-the-version-control-system">No mention about the version control system<a class="hash-link" aria-label="Direct link to No mention about the version control system" title="Direct link to No mention about the version control system" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-mention-about-the-version-control-system">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-mention-about-the-version-control-system">No mention about the version control system<a class="hash-link" aria-label="Direct link to No mention about the version control system" title="Direct link to No mention about the version control system" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-mention-about-the-version-control-system">​</a></h3>
 <p>Well if you are seeing the project on Github, is it wrong to assume that it uses
 <code>git</code>? Yes, there are many projects that I know use multiple version control
 systems and the best example is <code>nmap</code>. They accept patches (and PRs) in all
 forms and integrate it together. So explicitly mention about all the version
 control systems that you would be using and how you would accept foreign code
 for each.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-contacts">No contacts<a class="hash-link" aria-label="Direct link to No contacts" title="Direct link to No contacts" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-contacts">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-contacts">No contacts<a class="hash-link" aria-label="Direct link to No contacts" title="Direct link to No contacts" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-contacts">​</a></h3>
 <p>How should the viewer contact you in case he needs something or has something
 for you? Probably now you have a good incentive to give out your contact
 information (mainly email is good) for others to contact you or just say “Thanks
 for the awesome software!”.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-fancy-gui-pictures">No fancy GUI pictures<a class="hash-link" aria-label="Direct link to No fancy GUI pictures" title="Direct link to No fancy GUI pictures" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-fancy-gui-pictures">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-fancy-gui-pictures">No fancy GUI pictures<a class="hash-link" aria-label="Direct link to No fancy GUI pictures" title="Direct link to No fancy GUI pictures" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-fancy-gui-pictures">​</a></h3>
 <p>You probably would have spent a hell lot of time in designing and tweaking the
 GUI and were frustrated when a font size looks bigger than it should, so you
 should show it off. There are lots of people who like the fancy GUI way of
@@ -524,7 +587,7 @@ software rather than the good old black terminal with green text. If you have a
 fancy GUI, try and put the pictures of it in the README. GitHub’s markdown
 renders it, but I don’t think <code>man</code> pages do. But if you <strong>really</strong> care about
 man pages, you probably won’t even have cared enough to make a fancy GUI.</p>
-<h3 class="anchor anchorWithStickyNavbar_UcM0" id="no-table-of-contents">No table of contents<a class="hash-link" aria-label="Direct link to No table of contents" title="Direct link to No table of contents" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-table-of-contents">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_ywN1" id="no-table-of-contents">No table of contents<a class="hash-link" aria-label="Direct link to No table of contents" title="Direct link to No table of contents" href="https://bolg.kossiitkgp.org/writing-kickass-readmes#no-table-of-contents">​</a></h3>
 <p>Well if you try to write everything that I have pointed out, then it is probably
 good for you to follow this advice too. Have a <code>Table of Contents</code>. This way,
 the README will look more organized and it would make reading much easier.</p>
@@ -558,25 +621,25 @@ they blocked my repository<a href="https://github.com/DefCon-007/Commiter" targe
 <li><strong>Z-index for commit label of contribution graph was not proper</strong> :</li>
 </ol>
 <p>Below is the screenshot of the issue I am talking about.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*RTWPIaRI0H0hm0FCwxsZlg.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*RTWPIaRI0H0hm0FCwxsZlg.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Issue #1</span></p>
 <p>The label for the commit number should be above the graph. I got the following
 response for this issue.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*nlqHSF2LRW8qJ5t3J34cvg.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*nlqHSF2LRW8qJ5t3J34cvg.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Reply for issue #3</span></p>
 <p><strong>2. Latest commit info was not loading :</strong></p>
 <p>After some days the I noticed that the GitHub was failing to load the latest
 commit information on the repository homepage.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*Z4JGEWJ5rZYt_xMtsTu_oA.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*Z4JGEWJ5rZYt_xMtsTu_oA.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Issue #2</span></p>
 <p>And for this issue I got the following reply.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*ZS_cheHLvv5xxdFYQyuGEA.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*ZS_cheHLvv5xxdFYQyuGEA.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Reply for issue #2</span></p>
 <p><strong>3. Contributions graph failing to load :</strong></p>
 <p>According to me this was a major bug. The contributions graph stopped loading.
 It showed the below screen for hours and then the page said “Failed to load
 contributions graph”.</p>
-<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*H7bPVHj9h4VJn5ABHz9JGQ.png" alt="" class="img_Aha3">
+<p><img decoding="async" loading="lazy" src="https://cdn-images-1.medium.com/max/800/1*H7bPVHj9h4VJn5ABHz9JGQ.png" alt="" class="img_fUvR">
 <span class="figcaption_hack">Issue #3</span></p>
 <p>Sadly this was the last issue I was able to track. After reporting this people
 at GitHub disabled access to my repository. The reason stated by them was :</p>

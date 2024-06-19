@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkoss_bolg=self.webpackChunkkoss_bolg||[]).push([[885],{2937:e=>{e.exports=JSON.parse('{"tags":[{"label":"Engineering","permalink":"/tags/engineering","description":"Technical blogs","count":3},{"label":"KOSS","permalink":"/tags/koss","description":"A bunch of things specific to Kharagpur Open Source Society","count":1}]}')}}]);

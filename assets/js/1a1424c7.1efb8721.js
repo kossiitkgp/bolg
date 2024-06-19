@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoss_bolg=self.webpackChunkkoss_bolg||[]).push([[434],{6119:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"The occassional ramblings of our agitated developers, manifested in the form of bolgs.","blogTitle":"Blog"}}')}}]);
